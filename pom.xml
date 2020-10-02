@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	
 	<name>JavaFXTemplate</name>
-	<description>Platilla de proyecto JavaFX.</description>
+	<description>Plantilla de proyecto JavaFX.</description>
 
 	<properties>
 		<maven.compiler.target>14</maven.compiler.target>
