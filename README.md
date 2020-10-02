@@ -1,2 +1,2 @@
 # JavaFXTemplate
- Platilla de proyecto JavaFX.
+ Plantilla de proyecto JavaFX.
